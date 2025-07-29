@@ -157,8 +157,8 @@ It includes detailed information on:
 #### 📈 PivotChart
 
 - I created a combo PivotChart to plot median salary and skill likelihood (%) from my PivotTable.
-    - 🪙 **Primary Axis:** Median Salary (as a Clustered Column)
-    - 👍 **Secondary Axis:** Skill Likelihood (as a Line with Markers)
+    -  **Primary Axis:** Median Salary (as a Clustered Column)
+    -  **Secondary Axis:** Skill Likelihood (as a Line with Markers)
 - To customize the chart, I added a title axis title, removed the lines (skill likelihood), and changed the markers to diamonds.
 
 ### 📊 Analysis
